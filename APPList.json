@@ -1,0 +1,14 @@
+{
+  "Multimedia": [
+    {"name": "Music Player", "version": "1.0", "description": "Reproductor de música"},
+    {"name": "Video Stream", "version": "2.3", "description": "Streaming de video"}
+  ],
+  "Navegación": [
+    {"name": "GPS Tracker", "version": "1.1", "description": "Seguimiento GPS"},
+    {"name": "Maps Pro", "version": "3.0", "description": "Mapas avanzados"}
+  ],
+  "Utilidades": [
+    {"name": "Clima", "version": "1.5", "description": "Pronóstico del tiempo"},
+    {"name": "Calendario", "version": "2.0", "description": "Agenda personal"}
+  ]
+}
