@@ -10,5 +10,6 @@
   "Utilidades": [
     {"name": "Clima", "version": "1.5", "description": "Pronóstico del tiempo"},
     {"name": "Calendario", "version": "2.0", "description": "Agenda personal"}
+    {"name": "prueba", "version": "2.0", "description": "Agenda personal"}
   ]
 }
